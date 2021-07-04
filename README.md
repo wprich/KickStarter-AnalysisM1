@@ -1,2 +1,2 @@
-# KickStarter-AnalysisM1
+# An Anlysis of Kickstarter Campaigns
 M1
