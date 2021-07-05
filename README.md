@@ -27,6 +27,7 @@ https://github.com/wprich/KickStarter-AnalysisM1/blob/main/Resources/SubCategory
   
   One key factor in any launch of a product/idea is timing.  When would be the best time to launch a kickstarter campaign and when would be the worst?  After filtering the data to show us the "Theater" category, we could then break it down into the months to see which months had the most success and which had the most failed.
 https://github.com/wprich/KickStarter-AnalysisM1/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85487722/124498580-6f1ac380-dd71-11eb-9816-0c7fa4fdf94d.png)
 
   This graph shows us that the months with the most successful theater campaigns are May, June, and July in that order.  The months with the least are January, March, September, November, and December.  Also, the month with the most failed campaigns is October.  This seems to follow a trend of people not spending much money during the winter holidays and spending more money during the middle of spring and/or start of summer.  
